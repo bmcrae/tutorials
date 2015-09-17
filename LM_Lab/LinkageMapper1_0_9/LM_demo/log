@@ -1,0 +1,3 @@
+201304121024   0     0     0bmcrae C:\DATADR~1\LM\demo\DEMOPR~1\clm_cor\cc_climate.asc = GRIDASCII ( C:\DATADRIVE\LM\demo\demoProject\clm_cor\LM_inputs.gdb\climate
+201304121024   0     1     0bmcrae C:\DATADR~1\LM\demo\DEMOPR~1\clm_cor\cc_resist.asc = GRIDASCII ( C:\DATADRIVE\LM\demo\demoProject\clm_cor\LM_inputs.gdb\cc_resis
+201304121024   0     0     0bmcrae C:\DATADR~1\LM\demo\DEMOPR~1\clm_cor\cc_cores.asc = GRIDASCII ( C:\DATADRIVE\LM\demo\demoProject\clm_cor\LM_inputs.gdb\cores )
